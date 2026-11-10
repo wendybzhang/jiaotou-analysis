@@ -19,6 +19,6 @@ description: 用价值投资视角研究公司商业模式、经营机制和关�
 
 ## 方法与输出
 
-商业模式任务读取 [商业模式方法](references/business-analysis.md)，风险任务读取 [风险筛选](references/risk.md)。公司首次研究、股权结构、上市主体、管理层或治理任务读取 [股权与管理层方法](references/ownership-management.md)；首次研究或用户要求股权结构时，根据已核验披露生成股权结构图。研究结果需要长期保存时，可使用 [轻量 Profile](assets/company-profile.md)；只有专题实际研究后，才建立专题文件并链接。具体保存位置由用户决定；聊天任务不自动写文件。
+商业模式任务读取 [商业模式方法](references/business-analysis.md)，风险任务读取 [风险筛选](references/risk.md)。公司首次研究、股权结构、上市主体、管理层或治理任务读取 [股权与管理层方法](references/ownership-management.md)；首次研究或用户要求股权结构时，根据已核验披露生成股权结构图。三表或财务质量任务读取 [三表方法](references/financial-statements.md)，自由现金流任务读取 [自由现金流方法](references/free-cash-flow.md)，估值任务读取 [估值方法](references/valuation.md) 并按需读取前两项。研究结果需要长期保存时，可使用 [轻量 Profile](assets/company-profile.md)；只有专题实际研究后，才建立专题文件并链接。具体保存位置由用户决定；聊天任务不自动写文件。
 
 默认先给一句当前判断，再解释关键事实与来源、业务机制、其他解释、重要未知及下一步验证。区分事实、推断、假设与压力测试；用平实语言说明它们为什么影响判断。分析深度服从用户任务，不为填满模板虚构数据或结论。
