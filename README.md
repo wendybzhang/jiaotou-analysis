@@ -56,7 +56,7 @@
 | **风险筛选** | 区分事实、正常变化、确定事项和压力假设，研究重要风险怎样影响生意。 | 假设不等于已发生事实；也不能仅因缺少数据就断定风险不存在。 |
 | **轻量 Profile** | 记录当前理解、依据、未知和专题链接，方便持续研究。 | 未研究的栏目保留空白或标明未研究，不应为了完整而编造。 |
 
-[泡泡玛特公司研究 Demo](examples/pop-mart/README.md)展示商业模式、风险与 Profile；另有[股权结构图与管理层专题](examples/pop-mart/ownership-management.md)和[三表、自由现金流及历史估值示例](examples/pop-mart/financials-and-valuation.md)。示例使用历史时点资料，不代表当前结论；其中完整三表重建和独立估值尚未完成。
+[泡泡玛特公司研究 Demo](examples/pop-mart/README.md)展示商业模式、风险与 Profile；另有[股权结构图与管理层专题](examples/pop-mart/ownership-management.md)和[三表、自由现金流及历史估值示例](examples/pop-mart/financials-and-valuation.md)。
 
 不同 AI 助手、数据获取方式和公司披露情况都可能影响结果；长期三表整理与完整估值尤其需要复核。股权图默认使用 Mermaid，目标环境不支持时可用文字树或表格。
 
